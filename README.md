@@ -1,5 +1,5 @@
 # email-spoofing
-email spoofing program using python 
+Email spoofing program using python 
 create an account on brevo.com https://www.brevo.com , 
 You will get a free smtp server details after creating an  account
 fill that smtp server details in config.ini . 
